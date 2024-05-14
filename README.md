@@ -4,17 +4,17 @@
 
 _Наиболее интересными технологиями для меня представляются:_
 
-- [ * ] React JS
-- [ * ] Query
-- [ * ] React Hook Form
-- [ * ] React Router
-- [ * ] Redux Toolkit
-- [ * ] Redux Persist
-- [ * ] TypeScript
-- [ * ] Material-UI (MUI)
-- [ * ] Vite
-- [ * ] Figma
-- [ * ] Pixso
+- [ ] React JS
+- [ ] Query
+- [ ] React Hook Form
+- [ ] React Router
+- [ ] Redux Toolkit
+- [ ] Redux Persist
+- [ ] TypeScript
+- [ ] Material-UI (MUI)
+- [ ] Vite
+- [ ] Figma
+- [ ] Pixso
 
 Данный стек технологий обеспечивает декларативный, современный подход к созданию интерфейсов, что упрощает и ускоряет процесс разработки. Активно продолжаю изучать чистый JS.
 
