@@ -20,6 +20,8 @@ __Данный стек технологий обеспечивает декла
 
 Мой аккаунт телеграм: https://t.me/Kostey87
 
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+
 
 
 <!--
