@@ -2,7 +2,7 @@
 
 *Меня зовут Константин, я начал заниматься web-разработкой поскольку программирование представляется мне достаточно интересной инженерной дисциплиной, способность создавать что-то с нуля, воплощать идеи в жизнь через код - это средство самовыражения и самоутверждения личности и то что искренне вдохновляет.*
 
-_Наиболее интересными технологиями для меня представляются:_
+:computer: _Наиболее интересными технологиями для меня представляются:_
 
 * JS 
 * React JS 
@@ -17,9 +17,9 @@ _Наиболее интересными технологиями для мен�
 * Figma
 * Pixso
 
-__Данный стек технологий обеспечивает декларативный, современный подход к созданию интерфейсов, что упрощает и ускоряет процесс разработки.__
+:floppy_disk: __Данный стек технологий обеспечивает декларативный, современный подход к созданию интерфейсов, что упрощает и ускоряет процесс разработки.__
 
-Мой аккаунт телеграм: https://t.me/Kostey87
+:speech_balloon: Мой аккаунт телеграм: https://t.me/Kostey87
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="20" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="20" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="20" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="20" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="20" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="20" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20" height="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20">
 
