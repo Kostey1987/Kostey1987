@@ -4,9 +4,9 @@
 
 _Наиболее интересными технологиями для меня представляются:_
 
-* JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20">
-* React JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20">
-* Query
+* JS 
+* React JS 
+* RTK Query
 * React Hook Form
 * React Router
 * Redux Toolkit
@@ -21,7 +21,8 @@ __Данный стек технологий обеспечивает декла
 
 Мой аккаунт телеграм: https://t.me/Kostey87
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="20" height="20">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="20" height="20">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="20" height="20">
