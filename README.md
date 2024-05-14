@@ -28,7 +28,6 @@ __Данный стек технологий обеспечивает декла
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="20" height="20">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="20" height="20">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" alt="React Router" width="20" height="20">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reacthookform/reacthookform-original.svg" alt="React Hook Form" width="20" height="20">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="20" height="20">
 
 
